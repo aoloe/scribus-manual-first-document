@@ -1,0 +1,1 @@
+# scribus-manual-first-document
